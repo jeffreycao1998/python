@@ -1,3 +1,3 @@
-# web-srcapers
+# python
 
-scrapers and nothing more!
+python and nothing more!
